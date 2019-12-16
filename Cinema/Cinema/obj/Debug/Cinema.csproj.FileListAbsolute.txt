@@ -1,0 +1,6 @@
+E:\project\P213\Cinema\Cinema\bin\Debug\Cinema.exe.config
+E:\project\P213\Cinema\Cinema\bin\Debug\Cinema.exe
+E:\project\P213\Cinema\Cinema\bin\Debug\Cinema.pdb
+E:\project\P213\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+E:\project\P213\Cinema\Cinema\obj\Debug\Cinema.exe
+E:\project\P213\Cinema\Cinema\obj\Debug\Cinema.pdb
